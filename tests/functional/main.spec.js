@@ -10,7 +10,6 @@ const {
 	zeroAndDouble,
 	onlyZero,
 	zeroMissingValue,
-	bigValues
 } = require('../data/main')
 
 describe('Main test', () => {
