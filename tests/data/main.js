@@ -18,8 +18,6 @@ const onlyZero = [0, 0, 0, 0, 0]
 
 const zeroMissingValue = [-1, -2, 3, 2, 1]
 
-const bigValues = [10000000000000000000000000000001n, 10000000000000000000000000000004n]
-
 module.exports = {
 	allPositive,
 	allNegative,

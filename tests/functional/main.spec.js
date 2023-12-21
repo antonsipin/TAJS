@@ -44,7 +44,4 @@ describe('Main test', () => {
   test('Zero as missing value', () => {
        expect(findMissingValues(zeroMissingValue)).toBe(0);
   });
-//   test('Big values', () => {
-//        expect(findMissingValues(bigValues)).toBe(10000000000000000000000000000002n);
-//   });
 });
